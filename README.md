@@ -17,7 +17,7 @@ Miniweb desarrollada en PHP y MySQL que muestra una lista de personajes de One P
 - `onepiece.sql`: Exportación de la base de datos
 
 ## 🌐 Demo Online
-🔗 [https://tusitio.000webhostapp.com](http://miniwebonepiece.infinityfreeapp.com/)
+🔗 [http://miniwebonepiece.infinityfreeapp.com](http://miniwebonepiece.infinityfreeapp.com/)
 
 ## 📷 Captura
 ![Captura de la web](assets/img/captura.png)
